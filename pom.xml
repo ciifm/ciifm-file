@@ -34,7 +34,7 @@
 
     <distributionManagement>
         <repository>
-            <id>ciifm-file</id>
+            <id>ciifm-repo</id>
             <url>file:/code/github/deploy/repository/public</url>
         </repository>
     </distributionManagement>
