@@ -1,9 +1,9 @@
-package com.ciifm.file.service.impl;
+package com.github.ciifm.file.service.impl;
 
 import com.aliyun.oss.ClientConfiguration;
 import com.aliyun.oss.OSSClient;
-import com.ciifm.file.domain.FileProperties;
-import com.ciifm.file.service.IFileService;
+import com.github.ciifm.file.domain.FileProperties;
+import com.github.ciifm.file.service.IFileService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;

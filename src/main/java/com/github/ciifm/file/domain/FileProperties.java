@@ -1,4 +1,4 @@
-package com.ciifm.file.domain;
+package com.github.ciifm.file.domain;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

@@ -1,4 +1,4 @@
-package com.ciifm.file;
+package com.github.ciifm.file;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

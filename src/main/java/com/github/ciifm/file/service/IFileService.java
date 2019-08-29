@@ -1,11 +1,11 @@
-package com.ciifm.file.service;
+package com.github.ciifm.file.service;
 
 
 import java.net.URL;
 import java.util.Date;
 import java.util.List;
 import java.io.InputStream;
-import com.ciifm.file.domain.FileObjectSummary;
+import com.github.ciifm.file.domain.FileObjectSummary;
 
 public interface IFileService {
 

@@ -1,4 +1,4 @@
-package com.ciifm.file.domain;
+package com.github.ciifm.file.domain;
 
 import java.util.Date;
 
