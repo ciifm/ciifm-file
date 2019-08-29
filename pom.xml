@@ -8,7 +8,7 @@
         <version>2.1.7.RELEASE</version>
         <relativePath/>
     </parent>
-    <groupId>com..github.ciifm</groupId>
+    <groupId>com.github.ciifm</groupId>
     <artifactId>ciifm-file</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
